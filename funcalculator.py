@@ -14,7 +14,19 @@ def multiply(x,y):
     """This function multiplies 2 numbers"""
 
     return x*y
+def divide(x,y):
 
+    """This function divides 2 numbers"""
+
+    return x/y
+
+                
+
+def power(x,y):
+
+    """This function gives power"""
+
+    return pow(x,y)
 
 
 #take input from user
